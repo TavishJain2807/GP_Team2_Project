@@ -1,0 +1,36 @@
+body{
+    background-color: lightgrey;
+    font-family: sans-serif;
+}
+.header{
+    font-size: 27px;
+    margin-bottom: 0px;
+}
+hr{
+    width: 30%;
+    height: 7px;
+    color: black;
+    fill: black;
+    margin-top: 0px;
+    background-color:black;
+    padding-top: 0px;
+    border-color:black;
+}
+section{
+    background-color: skyblue;
+    border-radius: 30px;
+    padding: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-color: rgb(3, 109, 151);
+    border-width: 2px;
+    border-style: solid;
+    font-size: 18px;
+}
+section hr{
+    width: 20%;
+    border-color: black;
+}
+.main{
+    margin: 30px;
+}
