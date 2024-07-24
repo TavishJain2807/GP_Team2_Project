@@ -30,6 +30,7 @@ section{
 section hr{
     width: 20%;
     border-color: black;
+    height: 4px;
 }
 .main{
     margin: 30px;
